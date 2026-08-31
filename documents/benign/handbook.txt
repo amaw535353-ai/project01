@@ -1,0 +1,1 @@
+Support policy: demo customer records require the support role. Messages require approval.
